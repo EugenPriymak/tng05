@@ -1,0 +1,14 @@
+@edia (max-width: 1260px) {
+
+    .info__item {
+        padding:30px;
+    }
+    
+    .info__title {
+        font-size: 16px;
+    }
+
+    .info__text {
+        font-size: 14px;
+    }
+}
